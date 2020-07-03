@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ravine-ECS-Benchmark", "Ravine-ECS-Benchmark.vcxproj", "{38996708-6D85-4FDE-AA94-400FC938DACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38996708-6D85-4FDE-AA94-400FC938DACB}.Debug|x64.ActiveCfg = Debug|x64
+		{38996708-6D85-4FDE-AA94-400FC938DACB}.Debug|x64.Build.0 = Debug|x64
+		{38996708-6D85-4FDE-AA94-400FC938DACB}.Debug|x86.ActiveCfg = Debug|Win32
+		{38996708-6D85-4FDE-AA94-400FC938DACB}.Debug|x86.Build.0 = Debug|Win32
+		{38996708-6D85-4FDE-AA94-400FC938DACB}.Release|x64.ActiveCfg = Release|x64
+		{38996708-6D85-4FDE-AA94-400FC938DACB}.Release|x64.Build.0 = Release|x64
+		{38996708-6D85-4FDE-AA94-400FC938DACB}.Release|x86.ActiveCfg = Release|Win32
+		{38996708-6D85-4FDE-AA94-400FC938DACB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58D9A65B-BEFB-4936-B4DC-56D805DBBCC3}
+	EndGlobalSection
+EndGlobal
